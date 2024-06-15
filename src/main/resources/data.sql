@@ -1,0 +1,1 @@
+INSERT INTO assets VALUES ('user1','USDT',50000);
